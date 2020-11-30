@@ -12,4 +12,4 @@ Script for medical image augmentation.
 * RandomCutout
 
 ##  Acknowledges
-A large portion of the code is taken from [ModelsGenesis](https://github.com/MrGiovanni/ModelsGenesis) and [uda](https://github.com/google-research/uda). Thanks!
+A large portion of the code is taken from [ModelsGenesis](https://github.com/MrGiovanni/ModelsGenesis/blob/master/pytorch/utils.py) and [uda](https://github.com/google-research/uda/blob/master/image/randaugment/augmentation_transforms.py). Thanks!
