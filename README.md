@@ -1,4 +1,4 @@
-# medical_augmentation
+# medical image augmentation
 Script for medical image augmentation.
 
 ## List of augmentations
